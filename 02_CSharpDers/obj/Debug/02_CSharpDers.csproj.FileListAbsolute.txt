@@ -1,0 +1,7 @@
+C:\Users\Ozerm\source\repos\CSharpEgitim1\02_CSharpDers\bin\Debug\02_CSharpDers.exe.config
+C:\Users\Ozerm\source\repos\CSharpEgitim1\02_CSharpDers\bin\Debug\02_CSharpDers.exe
+C:\Users\Ozerm\source\repos\CSharpEgitim1\02_CSharpDers\bin\Debug\02_CSharpDers.pdb
+C:\Users\Ozerm\source\repos\CSharpEgitim1\02_CSharpDers\obj\Debug\02_CSharpDers.csproj.AssemblyReference.cache
+C:\Users\Ozerm\source\repos\CSharpEgitim1\02_CSharpDers\obj\Debug\02_CSharpDers.csproj.CoreCompileInputs.cache
+C:\Users\Ozerm\source\repos\CSharpEgitim1\02_CSharpDers\obj\Debug\02_CSharpDers.exe
+C:\Users\Ozerm\source\repos\CSharpEgitim1\02_CSharpDers\obj\Debug\02_CSharpDers.pdb
