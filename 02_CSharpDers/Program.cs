@@ -171,7 +171,7 @@ namespace _02_CSharpDers
 
             #endregion
 
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }

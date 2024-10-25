@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58C4515A-E6D3-4A8A-B202-FB4377C2C24F}|02_CSharpDers\\02_CSharpDers.csproj|c:\\users\\ozerm\\source\\repos\\csharpegitim1\\02_csharpders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11118B16-282C-40A4-A0EE-706AF6E4541F}|01_CSharpDers\\01_MainSubject.csproj|c:\\users\\ozerm\\source\\repos\\csharpegitim1\\01_csharpders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11118B16-282C-40A4-A0EE-706AF6E4541F}|01_CSharpDers\\01_MainSubject.csproj|solutionrelative:01_csharpders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1043DCEF-B457-49A1-9F44-E0D7A88B395C}|08_metots\\08_metots.csproj|C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\08_metots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1043DCEF-B457-49A1-9F44-E0D7A88B395C}|08_metots\\08_metots.csproj|solutionrelative:08_metots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75077267-C0D1-4E06-AAF2-5AF820E3A007}|07_Foreach\\07_Foreach.csproj|C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75077267-C0D1-4E06-AAF2-5AF820E3A007}|07_Foreach\\07_Foreach.csproj|solutionrelative:07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1507D6-8A04-428C-A044-3BE7672C9772}|06_Arrays\\06_Arrays.csproj|C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1507D6-8A04-428C-A044-3BE7672C9772}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E9B6DD-5FB7-41F3-9327-8F45B2333DB3}|06_LoopsWithStart\\06_LoopsWithStart.csproj|c:\\users\\ozerm\\source\\repos\\csharpegitim1\\06_loopswithstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E9B6DD-5FB7-41F3-9327-8F45B2333DB3}|06_LoopsWithStart\\06_LoopsWithStart.csproj|solutionrelative:06_loopswithstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C84555-0726-4AC5-BA28-72C443051886}|04_Loops\\04_Loops.csproj|c:\\users\\ozerm\\source\\repos\\csharpegitim1\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C84555-0726-4AC5-BA28-72C443051886}|04_Loops\\04_Loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A243A0-BC66-4FA0-8403-62663284ABD5}|03_MakingDecision\\03_MakingDecision.csproj|c:\\users\\ozerm\\source\\repos\\csharpegitim1\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A243A0-BC66-4FA0-8403-62663284ABD5}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C4515A-E6D3-4A8A-B202-FB4377C2C24F}|02_CSharpDers\\02_CSharpDers.csproj|C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\02_csharpders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58C4515A-E6D3-4A8A-B202-FB4377C2C24F}|02_CSharpDers\\02_CSharpDers.csproj|solutionrelative:02_csharpders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,35 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\02_CSharpDers\\Program.cs",
-              "RelativeDocumentMoniker": "02_CSharpDers\\Program.cs",
-              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\02_CSharpDers\\Program.cs",
-              "RelativeToolTip": "02_CSharpDers\\Program.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAAAKMAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\06_LoopsWithStart\\Program.cs",
+              "RelativeDocumentMoniker": "06_LoopsWithStart\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\06_LoopsWithStart\\Program.cs",
+              "RelativeToolTip": "06_LoopsWithStart\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwLEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:37:27.809Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-25T09:15:35.679Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\04_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "04_Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\04_Loops\\Program.cs",
+              "RelativeToolTip": "04_Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:14:19.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\01_CSharpDers\\Program.cs",
               "RelativeDocumentMoniker": "01_CSharpDers\\Program.cs",
               "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\01_CSharpDers\\Program.cs",
               "RelativeToolTip": "01_CSharpDers\\Program.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAgwJkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:11:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:13:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\08_metots\\Program.cs",
+              "RelativeDocumentMoniker": "08_metots\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\08_metots\\Program.cs",
+              "RelativeToolTip": "08_metots\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:48:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\07_Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "07_Foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\07_Foreach\\Program.cs",
+              "RelativeToolTip": "07_Foreach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:50:54.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:08:01.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\02_CSharpDers\\Program.cs",
+              "RelativeDocumentMoniker": "02_CSharpDers\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\02_CSharpDers\\Program.cs",
+              "RelativeToolTip": "02_CSharpDers\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwK4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:37:27.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\01_CSharpDers\\Program.cs",
+              "RelativeDocumentMoniker": "01_CSharpDers\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozerm\\source\\repos\\CSharpEgitim1\\01_CSharpDers\\Program.cs",
+              "RelativeToolTip": "01_CSharpDers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T10:18:12.152Z"
             }

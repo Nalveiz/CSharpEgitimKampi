@@ -1,0 +1,7 @@
+C:\Users\Ozerm\source\repos\CSharpEgitim1\07_Foreach\bin\Debug\07_Foreach.exe.config
+C:\Users\Ozerm\source\repos\CSharpEgitim1\07_Foreach\bin\Debug\07_Foreach.exe
+C:\Users\Ozerm\source\repos\CSharpEgitim1\07_Foreach\bin\Debug\07_Foreach.pdb
+C:\Users\Ozerm\source\repos\CSharpEgitim1\07_Foreach\obj\Debug\07_Foreach.csproj.AssemblyReference.cache
+C:\Users\Ozerm\source\repos\CSharpEgitim1\07_Foreach\obj\Debug\07_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Ozerm\source\repos\CSharpEgitim1\07_Foreach\obj\Debug\07_Foreach.exe
+C:\Users\Ozerm\source\repos\CSharpEgitim1\07_Foreach\obj\Debug\07_Foreach.pdb
