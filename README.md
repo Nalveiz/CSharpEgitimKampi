@@ -14,28 +14,28 @@ Bu proje, C# eğitim kampında öğrendiğim temel konuları ve bu konulardaki k
 
 ---
 
-## Temel C# Komutları 🖥️
+## 1 Temel C# Komutları 🖥️
 Yazdırma komutları kullanarak konsola metin yazdırmayı, integer ve string değişkenler tanımlamayı ve basit aritmetik işlemlerle temel C# komutlarını öğrendim.
 
-## Değişkenler ve Veri Tipleri 🏷️
+## 2 Değişkenler ve Veri Tipleri 🎛️
 İnt, double, string, bool gibi temel veri tiplerini öğrendim. Değişkenlerin nasıl tanımlandığını ve kullanıldığını gördüm. Veri tipleri arasında nasıl dönüşüm yapabileceğimi öğrendim.
 
-## Koşul ve Karar Yapıları 🔄
+## 3 Koşul ve Karar Yapıları 👍👎
 If-Else koşulları ile farklı durumlara göre nasıl karar verileceğini öğrendim.
 
-## Döngüler ⏳
+## 4 Döngüler ⏳🔄
 For ve While döngüleriyle birlikte karar yapılarını etkin bir şekilde kullanmayı öğrendim.
 
-## Döngülerle Örnekler 💡
+## 5 Döngülerle Örnekler 💡
 Döngülerle alakalı pekiştirme örnekleri yaparak algoritmamı geliştirdim.
 
-## Diziler 📊
+## 6 Diziler 📊
 Dizi oluşturma ve eleman atama yöntemlerini öğrendim. For döngüsü kullanarak dizinin tüm elemanlarını listelemeyi öğrendim. Bazı dizi özellikleri ve metotlarını kullanarak dizilerle çalışma becerimi geliştirdim.
 
-## Dizilerle Foreach Döngüsü 📂
+## 7 Dizilerle Foreach Döngüsü 🗂️
 Diziler ve koleksiyonlar üzerinde döngü oluşturmayı, foreach döngüsünün kullanımı ile list koleksiyonunu kullanarak elemanları listeleme işlemini öğrendim.
 
-## Metotlar ⚙️
+## 8 Metotlar ⚙️
 Metotların nasıl kullanılacağını, parametreler aracılığıyla esnek bir yapı oluşturmayı ve geri dönüş değerleri ile program akışını nasıl yönetebileceğimi öğrendim.
 
 ---
