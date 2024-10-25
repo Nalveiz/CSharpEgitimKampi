@@ -3,14 +3,14 @@
 Bu proje, C# eğitim kampında öğrendiğim temel konuları ve bu konulardaki kazanımlarımı içerir. Aşağıda her bir başlık altında öğrendiğim önemli noktaları bulabilirsiniz.
 
 ## 📚 İçindekiler
-- **[Temel C# Komutları](#temel-c-komutları-🖥️)**
-- **[Değişkenler ve Veri Tipleri](#değişkenler-ve-veri-tipleri-🎛️)**
-- **[Koşul ve Karar Yapıları](#koşul-ve-karar-yapıları-👍👎)**
-- **[Döngüler](#döngüler-⏳🔄)**
-- **[Döngülerle Örnekler](#döngülerle-örnekler-💡)**
+- **[Temel C# Komutları](#temel-c-komutları)**
+- **[Değişkenler ve Veri Tipleri](#değişkenler-ve-veri-tipleri)**
+- **[Koşul ve Karar Yapıları](#koşul-ve-karar-yapıları)**
+- **[Döngüler](#döngüler)**
+- **[Döngülerle Örnekler](#döngülerle-örnekler)**
 - **[Diziler](#diziler-📊)**
-- **[Dizilerle Foreach Döngüsü](#dizilerle-foreach-döngüsü-🗂️)**
-- **[Metotlar](#metotlar-⚙️)**
+- **[Dizilerle Foreach Döngüsü](#dizilerle-foreach-döngüsü)**
+- **[Metotlar](#metotlar)**
 
 ---
 
